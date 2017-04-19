@@ -8,7 +8,7 @@ var http = require('http');
 
 // Print out message
 function printMessage(username, badgeCount, points) {
-  var message = username + ' has ' + badgeCount + ' total badge(s) and ' + points + ' points in JavaScript'
+  var message = username + ' has ' + badgeCount + ' total badge(s) and ' + points + ' points in JavaScript';
   console.log(message);
 }
 
